@@ -12,12 +12,9 @@ Thomas Young, con el objetivo de apoyar la teoría de que la luz era una onda y 
 
 Este resultado es inexplicable si la luz estuviera formada por partículas porque deberían observarse sólo dos franjas de luz frente a las rendijas, pero es fácilmente interpretable asumiendo que la luz es una onda y que sufre interferencias.
 
-## IMPORTANCIA DEL EXPERIMENTO
-
-El experimento de la doble rendija es de gran importancia en el campo de la física y la comprensión de la naturaleza fundamental de la materia y la luz por diversos motivos: En primer lugar, demuestra la dualidad onda-partícula de las partículas subatómicas, como electrones y fotones, mostrando que las partículas pueden exhibir tanto comportamiento de partícula como de onda. Esto desafía la noción clásica de que las partículas son entidades sólidas y puntuales y nos lleva a una comprensión más profunda de la naturaleza cuántica de la realidad. Este experimento es un pilar fundamental en la teoría cuántica, ayudando a establecer los conceptos fundamentales de la superposición, la interferencia y la probabilidad en el mundo subatómico. Además, proporciona evidencia experimental de que las partículas subatómicas no siguen las mismas reglas que los objetos macroscópicos y nos lleva a una nueva descripción de la realidad basada en las leyes cuánticas.
 
 ### LOS MATERIALES QUE UTILIZAMOS PARA EL PROYECTO SON:
-- Un puntero láser (rojo o verde)
+- Un puntero láser (verde)
 - Regla y lápiz
 - Pantalla blanca (hoja de papel o cartulina)
 - Cartón paja (para la estructura)
@@ -46,7 +43,11 @@ El experimento de la doble rendija es de gran importancia en el campo de la fís
 
 
 ### Algunas fotos que queremos mostrarles del como hicimos el experimento.
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/69ed2614-bde9-4faa-8087-f1413e0d40a6)
+![image](https://github.com/user-attachments/assets/543fe1eb-18fd-4250-bde8-be1c139a3f3b)
+
+
+
 
 ### Archivos
 En esta librería aparecen 3 archivos que el usuario puede usar
