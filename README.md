@@ -10,9 +10,6 @@ Este experimento es realizado con la finalidad de materializar y entender el com
 
 Thomas Young, con el objetivo de apoyar la teoría de que la luz era una onda y rechazar la teoría de que la luz estaba formada por partículas. hizo pasar un haz de luz por dos rendijas y vio que sobre una pantalla se producía un patrón de interferencias, una serie de franjas brillantes y oscuras alternadas.
 
-Este resultado es inexplicable si la luz estuviera formada por partículas porque deberían observarse sólo dos franjas de luz frente a las rendijas, pero es fácilmente interpretable asumiendo que la luz es una onda y que sufre interferencias.
-
-
 ### LOS MATERIALES QUE UTILIZAMOS PARA EL PROYECTO SON:
 - Un puntero láser (verde)
 - Regla y lápiz
@@ -54,4 +51,4 @@ En esta librería aparecen 3 archivos que el usuario puede usar
 
 - ***.gitignore*** -> Es el archivo que excluye lo que no se quiere dentro del repositorio GitHub.
 - ***README.md*** -> Es el archivo con documentación donde queremos mostrar el planteamiento y la realizacion del experimento de la doble rendija.
-- ***DobleRendija.py*** -> Donde queremos mostrar el planteamiento haciendo uso de los 2 puntos prupuestos de la doble rendija.
+- ***Experimento-doble-rendija.py*** -> Donde queremos mostrar el planteamiento haciendo uso de los 2 puntos prupuestos de la doble rendija.
